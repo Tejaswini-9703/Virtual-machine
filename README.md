@@ -1,5 +1,7 @@
 # Virtual-machine
 
+gcloud init         to initialize google cloud CLI <br>
+
  ifconfig - gives config. ,<br>
 ls - list all files <br>
 cat - show content inside file  <br>
