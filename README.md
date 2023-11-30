@@ -1,4 +1,6 @@
-# Virtual-machine
+Firenotes<br>
+#https://cloud.google.com/appengine/docs/legacy/standard/python/authenticating-users-firebase-appengine<br>
+#Virtual-machine
 
 https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt<br>
 gcloud init         to initialize google cloud CLI <br>
