@@ -1,7 +1,8 @@
 # Virtual-machine
 
+https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt<br>
 gcloud init         to initialize google cloud CLI <br>
-
+<br>
  ifconfig - gives config. ,<br>
 ls - list all files <br>
 cat - show content inside file  <br>
